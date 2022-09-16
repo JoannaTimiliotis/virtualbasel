@@ -1,0 +1,10 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the Innovation Managment Team behind
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
